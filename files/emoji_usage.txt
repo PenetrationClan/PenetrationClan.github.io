@@ -1,0 +1,4 @@
+:sos: for warnings
+:sunflower: for new sections
+:lock: for locked sections
+:cookie: for sections added by other users
